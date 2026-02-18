@@ -1,1 +1,1 @@
-# Ferns_Species_Image-Classification
+# Plants_Species_Image-Classification
