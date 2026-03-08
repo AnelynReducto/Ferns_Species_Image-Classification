@@ -8,7 +8,7 @@ A. Project Overview
 
 
 
-## Alpine Wood Fern
+# Alpine Wood Fern
 
 ![Alpine Wood Fern](Alpine_Wood_Fern.jpg)
 
