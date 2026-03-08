@@ -17,3 +17,14 @@ A. Project Overview
 
 **Description:**  
 The Alpine Wood Fern is a species of fern known for its large, feathery fronds and dark green foliage. It typically grows in cool, moist forest environments and is commonly found in mountainous regions. This fern is valued for its ornamental appearance and ability to thrive in shaded areas.
+
+
+## Autumn Fern
+
+![Autumn Fern](autumn_fern.jpg)
+
+**Common Name:** Autumn Fern  
+**Scientific Name:** *Dryopteris erythrosora*
+
+**Description:**  
+The Autumn Fern is a deciduous fern known for its copper-colored young fronds that gradually turn dark green as they mature. It commonly grows in shaded woodland areas and moist forest environments. This fern is widely used as an ornamental plant in gardens due to its attractive seasonal color changes and hardy nature.
