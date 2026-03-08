@@ -188,6 +188,33 @@ The Rabbit's Foot Fern is named for its furry rhizomes that resemble a rabbit's 
 C. Model Training Details
 
 
+## Accuracy per Class
+
+![Accuracy per Class](accuracy_per_class.png)
+
+**Description:**  
+This figure presents the classification accuracy achieved by the model for each fern species class. It illustrates how well the model performs in recognizing individual plant categories. Higher accuracy values indicate that the model can correctly identify that specific fern species more consistently.
+
+
+## Confusion Matrix
+
+### Confusion Matrix (Evaluation 1)
+![Confusion Matrix 1](confusion_matrix1.png)
+
+**Description:**  
+This confusion matrix shows the distribution of correct and incorrect predictions made by the model during the first evaluation. Each row represents the actual class, while each column represents the predicted class.
+
+### Confusion Matrix (Evaluation 2)
+![Confusion Matrix 2](confusion_matrix2.png)
+
+**Description:**  
+This matrix illustrates the model's classification performance in the second evaluation stage. It highlights how frequently each fern species was correctly identified or misclassified.
+
+### Confusion Matrix (Evaluation 3)
+![Confusion Matrix 3](confusion_matrix3.png)
+
+**Description:**  
+The third confusion matrix provides another evaluation of the model's predictive performance, allowing comparison of classification accuracy and misclassification patterns across plant species.
 
 
 
