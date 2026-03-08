@@ -241,7 +241,7 @@ Each image demonstrates how the trained model predicts the plant species based o
 
 ### Test Case 2
 
-| Input Image | Model Prediction |
+
 |-------------|------------------|
 | ![Test Case 2 Input](ss2.png) | ![Test Case 2 Result](ss2.1.png) |
 
