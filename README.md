@@ -16,7 +16,7 @@ A. Project Overview
 **Scientific Name:** *Dryopteris wallichiana*
 
 **Description:**  
-The Alpine Wood Fern is a species of fern known for its large, feathery fronds and dark green foliage. It typically grows in cool, moist forest environments and is commonly found in mountainous regions. This fern is valued for its ornamental appearance and ability to thrive in shaded areas.
+The Alpine Wood Fern is a species of fern known for its large, feathery fronds and dark green foliage.
 
 
 ## Autumn Fern
