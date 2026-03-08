@@ -146,3 +146,39 @@ The Interrupted Fern gets its name from the interruption of fertile spore-produc
 
 **Description:**  
 The Lady Fern is a graceful fern species with finely divided, light green fronds. It thrives in moist woodland environments and shaded areas. This fern is commonly used in landscape gardening.
+
+
+## Maidenhair Fern
+
+![Maidenhair Fern](maidenhair_fern.jpg)
+
+**Common Name:** Maidenhair Fern  
+**Scientific Name:** *Adiantum capillus-veneris*
+
+**Description:**  
+The Maidenhair Fern is known for its delicate fan-shaped leaflets and thin black stems. It grows best in humid environments and shaded locations. This fern is widely cultivated as a decorative indoor plant.
+
+
+## Marginal Wood Fern
+
+![Marginal Wood Fern](marginal_wood_fern.jpg)
+
+**Common Name:** Marginal Wood Fern  
+**Scientific Name:** *Dryopteris marginalis*
+
+**Description:**  
+The Marginal Wood Fern is an evergreen fern found in rocky woodlands and forest environments. It has dark green leathery fronds and is known for the marginal placement of its spore clusters.
+
+
+## Rabbit's Foot Fern
+
+![Rabbit's Foot Fern](rabbit's_foot_fern.jpg)
+
+**Common Name:** Rabbit's Foot Fern  
+**Scientific Name:** *Davallia fejeensis*
+
+**Description:**  
+The Rabbit's Foot Fern is named for its furry rhizomes that resemble a rabbit's foot. These rhizomes grow over the surface of the soil or pot. It is a popular ornamental houseplant.
+
+
+
