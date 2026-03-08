@@ -1,5 +1,8 @@
 # Plants_Species_Image-Classification
 
+##Google drive link: https://drive.google.com/drive/folders/1Doyudl0Wd3cMqk8d1M93qm9rSOuvEXCk?usp=sharing
+
+
 A. Project Overview
   
   It is a machine learning project that identifies and classifies different plant species from images. It uses image processing and deep learning techniques to analyze plant features such as leaves, flowers, and overall structure, helping automate species recognition for applications in agriculture, botany, and environmental research.
