@@ -1,6 +1,6 @@
 # Plants_Species_Image-Classification
 
-##Google drive link: https://drive.google.com/drive/folders/1Doyudl0Wd3cMqk8d1M93qm9rSOuvEXCk?usp=sharing
+#Google drive link: https://drive.google.com/drive/folders/1Doyudl0Wd3cMqk8d1M93qm9rSOuvEXCk?usp=sharing
 
 
 A. Project Overview
