@@ -188,6 +188,16 @@ The Rabbit's Foot Fern is named for its furry rhizomes that resemble a rabbit's 
 C. Model Training Details
 
 
+
+
+
+
+
+
+
+D. Model Evaluation
+
+
 ## Accuracy per Class
 
 ![Accuracy per Class](accuracy_per_class.png)
@@ -219,11 +229,10 @@ The third confusion matrix provides another evaluation of the model's predictive
 
 
 
-
-D. Model Evaluation
-
-
-
-
-
 E. Model Testing
+
+The following screenshots show sample testing results from the model's preview interface.  
+Each image demonstrates how the trained model predicts the plant species based on the input image.
+
+
+
