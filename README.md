@@ -185,4 +185,18 @@ The Marginal Wood Fern is an evergreen fern found in rocky woodlands and forest 
 The Rabbit's Foot Fern is named for its furry rhizomes that resemble a rabbit's foot. These rhizomes grow over the surface of the soil or pot. It is a popular ornamental houseplant.
 
 
+C. Model Training Details
 
+
+
+
+
+
+
+D. Model Evaluation
+
+
+
+
+
+E. Model Testing
