@@ -28,3 +28,121 @@ The Alpine Wood Fern is a species of fern known for its large, feathery fronds a
 
 **Description:**  
 The Autumn Fern is a deciduous fern known for its copper-colored young fronds that gradually turn dark green as they mature. It commonly grows in shaded woodland areas and moist forest environments. This fern is widely used as an ornamental plant in gardens due to its attractive seasonal color changes and hardy nature.
+
+
+## Bird's Nest Fern
+
+![Bird's Nest Fern](bird's_nest_fern.jpg)
+
+**Common Name:** Bird's Nest Fern  
+**Scientific Name:** *Asplenium nidus*
+
+**Description:**  
+The Bird's Nest Fern is a tropical fern characterized by its broad, bright green fronds that grow in a rosette shape resembling a bird's nest. It typically grows on trees in humid forest environments and is widely cultivated as a decorative indoor plant.
+
+
+## Boston Fern
+
+![Boston Fern](boston_fern.jpg)
+
+**Common Name:** Boston Fern  
+**Scientific Name:** *Nephrolepis exaltata*
+
+**Description:**  
+The Boston Fern is a popular ornamental fern known for its long, arching fronds and delicate leaflets. It thrives in humid environments and is commonly grown as a houseplant. It is valued for its lush appearance and air-purifying properties.
+
+## Bracken Fern
+
+![Bracken Fern](bracken_fern.jpg)
+
+**Common Name:** Bracken Fern  
+**Scientific Name:** *Pteridium aquilinum*
+
+**Description:**  
+The Bracken Fern is one of the most widespread fern species in the world. It has large triangular fronds that grow from underground rhizomes. This fern is commonly found in forests, grasslands, and open areas.
+
+
+## Broad Beech Fern
+
+![Broad Beech Fern](broad_beech_fern.jpg)
+
+**Common Name:** Broad Beech Fern  
+**Scientific Name:** *Phegopteris hexagonoptera*
+
+**Description:**  
+The Broad Beech Fern is a woodland fern recognized for its triangular fronds and delicate leaf structure. It commonly grows in shaded forests and moist soils. The plant spreads through underground rhizomes forming small colonies.
+
+
+## Crocodile Fern
+
+![Crocodile Fern](crocodile_fern.jpg)
+
+**Common Name:** Crocodile Fern  
+**Scientific Name:** *Microsorum musifolium*
+
+**Description:**  
+The Crocodile Fern is named for its unique leaf texture that resembles crocodile skin. It is a tropical fern that grows well in humid environments and shaded areas. It is commonly used as an ornamental indoor plant.
+
+## Dragon Scale Fern
+
+![Dragon Scale Fern](dragon_scale_fern.jpg)
+
+**Common Name:** Dragon Scale Fern  
+**Scientific Name:** *Pyrrosia piloselloides*
+
+**Description:**  
+The Dragon Scale Fern is a small epiphytic fern known for its distinctive round leaves covered with golden scales. It often grows on tree trunks and rocks in tropical forests. The plant is valued for its unusual leaf pattern and ornamental appearance.
+
+## Giant Leather Fern
+
+![Giant Leather Fern](giant_leather_fern.jpg)
+
+**Common Name:** Giant Leather Fern  
+**Scientific Name:** *Acrostichum danaeifolium*
+
+**Description:**  
+The Giant Leather Fern is a large fern species commonly found in coastal wetlands and mangrove swamps. It has thick, leathery fronds and can grow several meters tall. The plant plays an important role in wetland ecosystems.
+
+
+## Hen and Chicken Fern
+
+![Hen and Chicken Fern](hen_and_chicken's_fern.jpg)
+
+**Common Name:** Hen and Chicken Fern  
+**Scientific Name:** *Asplenium bulbiferum*
+
+**Description:**  
+The Hen and Chicken Fern is known for producing small plantlets along its fronds, which resemble chicks surrounding a hen. These plantlets can fall off and grow into new plants. It is commonly grown as an ornamental fern.
+
+
+## Holly Fern
+
+![Holly Fern](holly_fern.jpg)
+
+**Common Name:** Holly Fern  
+**Scientific Name:** *Cyrtomium falcatum*
+
+**Description:**  
+The Holly Fern is an evergreen fern recognized for its glossy, dark green fronds with spiny edges resembling holly leaves. It is commonly grown in shaded gardens and indoor environments.
+
+
+## Interrupted Fern
+
+![Interrupted Fern](interrupted_fern.jpg)
+
+**Common Name:** Interrupted Fern  
+**Scientific Name:** *Osmunda claytoniana*
+
+**Description:**  
+The Interrupted Fern gets its name from the interruption of fertile spore-producing leaflets in the middle of its fronds. It grows in moist woodlands and shaded forest habitats.
+
+
+## Lady Fern
+
+![Lady Fern](lady_fern.jpg)
+
+**Common Name:** Lady Fern  
+**Scientific Name:** *Athyrium filix-femina*
+
+**Description:**  
+The Lady Fern is a graceful fern species with finely divided, light green fronds. It thrives in moist woodland environments and shaded areas. This fern is commonly used in landscape gardening.
