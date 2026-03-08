@@ -242,70 +242,54 @@ Each image demonstrates how the trained model predicts the plant species based o
 ### Test Case 2
 
 
-|-------------|------------------|
+
 | ![Test Case 2 Input](ss2.png) | ![Test Case 2 Result](ss2.1.png) |
 
 ---
 
 ### Test Case 3
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 3 Input](ss3.png) | ![Test Case 3 Result](ss3.1.png) |
 
 ---
 
 ### Test Case 4
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 4 Input](ss4.png) | ![Test Case 4 Result](ss4.1.png) |
 
 ---
 
 ### Test Case 5
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 5 Input](ss5.png) | ![Test Case 5 Result](ss5.1.png) |
 
 ---
 
 ### Test Case 6
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 6 Input](ss6.png) | ![Test Case 6 Result](ss6.1.png) |
 
 ---
 
 ### Test Case 7
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 7 Input](ss7.png) | ![Test Case 7 Result](ss7.1.png) |
 
 ---
 
 ### Test Case 8
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 8 Input](ss8.png) | ![Test Case 8 Result](ss8.1.png) |
 
 ---
 
 ### Test Case 9
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 9 Input](ss9.png) | ![Test Case 9 Result](ss9.1.png) |
 
 ---
 
 ### Test Case 10
 
-| Input Image | Model Prediction |
-|-------------|------------------|
 | ![Test Case 10 Input](ss10.png) | ![Test Case 10 Result](ss10.1.png) |
 
