@@ -10,7 +10,7 @@ A. Project Overview
 
 # Alpine Wood Fern
 
-(Alpine_Wood_Fern.jpg)
+![Alpine Wood Fern](Alpine_Wood_Fern.jpg)
 
 **Common Name:** Alpine Wood Fern  
 **Scientific Name:** *Dryopteris wallichiana*
