@@ -188,7 +188,7 @@ The Rabbit's Foot Fern is named for its furry rhizomes that resemble a rabbit's 
 C. Model Training Details
 
 
-
+![Test Case 1](ss1.png)
 
 
 
@@ -240,8 +240,6 @@ Each image demonstrates how the trained model predicts the plant species based o
 
 
 ### Test Case 2
-
-
 
 | ![Test Case 2 Input](ss2.png) | ![Test Case 2 Result](ss2.1.png) |
 
