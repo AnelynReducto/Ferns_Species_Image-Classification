@@ -7,6 +7,7 @@ A. Project Overview
   The purpose of the image classification model is to automatically identify and classify plant species from digital images using machine learning techniques. By analyzing visual characteristics such as leaf shape, color, texture, and structural patterns, the model can accurately recognize and categorize different plant species. This approach helps improve the efficiency and accuracy of plant identification compared to traditional manual methods. The model can support applications in botanical research, agriculture, biodiversity conservation, and educational systems by providing a faster and more accessible way to identify plant species.
 
 
+B. Plant Species Section
 
 ## Alpine Wood Fern
 
