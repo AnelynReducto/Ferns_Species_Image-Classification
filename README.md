@@ -294,3 +294,24 @@ Each image demonstrates how the trained model predicts the plant species based o
 
 | ![Test Case 10 Input](ss10.png) | ![Test Case 10 Result](ss10.1.png) |
 
+
+
+
+##Reflection Questions:
+
+
+Answer the following questions based on your experience:
+1. How did the number of images per class affect your model’s accuracy?
+     -The number of images per class significantly affected the model’s accuracy. Classes with more training images allowed the model to learn the visual features of those plant species more effectively, resulting in higher classification accuracy. In contrast, classes with fewer images provided limited examples for the model to learn from, which sometimes led to lower prediction accuracy and increased misclassification. Therefore, maintaining a balanced number of images per class helps improve the overall performance of the model.
+  
+2. Which plant species were most commonly misclassified and why?
+    -Broad Beech Fern and Interrupted Fern since they look almost similar.
+ 
+3. How did changing the epochs, batch size, or learning rate affect the training results?
+    -Adjusting the training parameters had a noticeable impact on the model’s performance. Increasing the number of epochs allowed the model to learn more patterns from the dataset, improving accuracy up to a certain point. However, too many epochs may lead to overfitting, where the model memorizes the training data instead of generalizing well. The batch size affected how the data was processed during training, where smaller batch sizes sometimes helped the model learn more detailed patterns. The learning rate controlled how quickly the model adjusted its weights, and selecting an appropriate value helped achieve stable and efficient training.    
+
+4. What challenges did you encounter during dataset collection and labeling?
+    -The main challenges I encountered during dataset collection was finding a sufficient number of high-quality images for each plant species. Another challenge was ensuring that each image was correctly labeled, as mislabeling can negatively affect the model’s learning process.
+   
+5. If you were to improve your model, what specific changes would you make and why?
+    -If I were to improve my model, I would try to collect more images for each plant species to create a larger and more balanced dataset. I would also apply data augmentation techniques such as rotating or flipping images to increase the variety of training data.
